@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HOLA MUNDO
+    </string>
+    <string name="hola_mundo">\@HOLA MUNDO</string>
+    <string name="foto">foto</string>
+    <string name="android_saludando">android saludando</string>
+    <string name="hola_mi_mundo">Hola Mi Mundo</string>
+    <string name="monito_android">MONITO ANDROID</string>
+    <string name="andorid">ANDORID</string>
+</resources>
